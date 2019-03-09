@@ -1,0 +1,64 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.field{
+    margin-top:20px;
+    margin-left:100px;
+    display:flex;
+    flex-wrap: wrap;
+    width:1000px;
+    height:1000px;
+    background-color: rgb(201,255,147);
+    outline:1px solid green;
+}
+
+.excel{
+    width:100px;
+    height:100px;
+}
+
+.snake_head{
+    background-image:url("img/snake.svg");
+}
+
+.right{
+    -webkit-transform: rotate(270deg);
+}
+
+.left{
+    -webkit-transform: rotate(90deg);
+}
+
+.up{
+    -webkit-transform: rotate(180deg);
+}
+
+.down{
+
+}
+
+.snake_body{
+    background-color: forestgreen;
+    border-radius: 80px;
+}
+
+.food{
+    background-image: url("img/food.svg");
+    background-size: 100px, 100px;
+}
+
+.score_windows{
+    margin-top:50px;
+    margin-left:500px;
+    height:50px;
+    width:160px;
+    text-align: center;
+    font-size:24px;
+    color:green;
+    border:1px solid green;
+    border-radius: 30px;
+}
+
