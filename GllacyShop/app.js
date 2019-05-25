@@ -53,9 +53,9 @@ $('.header_menu a:first-child').on('click', ()=>{
 $('#search').on('click', ()=>{
    $('.search_block').toggle();
    $('.login_block').hide();
-    $('.main_menu').css({"display":"none"});
-    $('.header_menu a:first-child').removeClass("active_link");
-    $('.header_menu a:first-child').addClass("passive_link");
+   $('.main_menu').css({"display":"none"});
+   $('.header_menu a:first-child').removeClass("active_link");
+   $('.header_menu a:first-child').addClass("passive_link");
 });
 
 $('#login').on('click', ()=>{
@@ -85,4 +85,24 @@ $('.feedback_form .close_form').on('click', ()=>{
 $('.feedback_form .button').on('click', ()=>{
     $('.overlay').hide();
     $('.feedback_form').hide();
+});
+
+$('.hit_product_1').on('mouseenter', ()=>{
+    $('.hit_product_1 .hit_product_view').css({"display":"block"});
+});
+
+$('.hit_product_2').on('mouseenter', ()=>{
+    $('.hit_product_2 .hit_product_view').css({"display":"block"});
+});
+
+$('.hit_product_3').on('mouseenter', ()=>{
+    $('.hit_product_3 .hit_product_view').css({"display":"block"});
+});
+
+$('.hit_product_4').on('mouseenter', ()=>{
+    $('.hit_product_4 .hit_product_view').css({"display":"block"});
+});
+
+$('.hit_product').on('mouseleave', ()=>{
+    $('.hit_product_view').css({"display":"none"});
 });

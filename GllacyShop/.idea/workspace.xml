@@ -17,18 +17,38 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2057">
-              <caret line="121" column="14" lean-forward="false" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="23" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="1019" column="5" lean-forward="false" selection-start-line="1019" selection-start-column="5" selection-end-line="1019" selection-end-column="5" />
+            <state relative-caret-position="17527">
+              <caret line="1031" column="1" lean-forward="false" selection-start-line="995" selection-start-column="0" selection-end-line="1031" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newindex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newindex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newCSS.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/newCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="1137" column="26" lean-forward="false" selection-start-line="1137" selection-start-column="26" selection-end-line="1137" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -37,8 +57,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+            <state relative-caret-position="1768">
+              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,10 +69,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="TypeScript File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -60,9 +80,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css.ts" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/css.css" />
+        <option value="$PROJECT_DIR$/newindex.html" />
+        <option value="$PROJECT_DIR$/newCSS.css" />
       </list>
     </option>
   </component>
@@ -93,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,22 +123,11 @@
               <item name="GllacyShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="GllacyShop" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GllacyShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GllacyShop" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GllacyShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GllacyShop" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,14 +135,15 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Landing" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\WebDevelopment\GllacyShop\fonts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WebDevelopment\GllacyShop\fonts" />
+      <recent name="C:\WebDevelopment\GllacyShop\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\WebDevelopment\GllacyShop\img" />
       <recent name="C:\WebDevelopment\GllacyShop\fonts" />
     </key>
@@ -236,14 +249,52 @@
       <workItem from="1557694080476" duration="798000" />
       <workItem from="1557695124294" duration="1100000" />
       <workItem from="1557771179651" duration="2000" />
+      <workItem from="1557773487769" duration="416000" />
+      <workItem from="1557774499650" duration="1699000" />
+      <workItem from="1557777182463" duration="1792000" />
+      <workItem from="1557952364325" duration="1786000" />
+      <workItem from="1557954208453" duration="1536000" />
+      <workItem from="1558036675468" duration="1788000" />
+      <workItem from="1558038486894" duration="1050000" />
+      <workItem from="1558040036915" duration="475000" />
+      <workItem from="1558123582335" duration="1066000" />
+      <workItem from="1558124662538" duration="1197000" />
+      <workItem from="1558178583837" duration="1785000" />
+      <workItem from="1558180385810" duration="1790000" />
+      <workItem from="1558182191869" duration="258000" />
+      <workItem from="1558213223302" duration="1036000" />
+      <workItem from="1558215588003" duration="1790000" />
+      <workItem from="1558217436559" duration="511000" />
+      <workItem from="1558284104051" duration="1222000" />
+      <workItem from="1558285564274" duration="476000" />
+      <workItem from="1558286265316" duration="384000" />
+      <workItem from="1558287181977" duration="667000" />
+      <workItem from="1558287961518" duration="890000" />
+      <workItem from="1558289105095" duration="1566000" />
+      <workItem from="1558293394311" duration="240000" />
+      <workItem from="1558464834080" duration="1863000" />
+      <workItem from="1558550242475" duration="1785000" />
+      <workItem from="1558552058027" duration="1650000" />
+      <workItem from="1558554223085" duration="1388000" />
+      <workItem from="1558638462115" duration="1371000" />
+      <workItem from="1558640093072" duration="1451000" />
+      <workItem from="1558725238184" duration="1785000" />
+      <workItem from="1558727039025" duration="321000" />
+      <workItem from="1558727635320" duration="1792000" />
+      <workItem from="1558729443241" duration="515000" />
+      <workItem from="1558730079193" duration="1192000" />
+      <workItem from="1558816881539" duration="605000" />
+      <workItem from="1558817519840" duration="650000" />
+      <workItem from="1558818412410" duration="735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86719000" />
+    <option name="totallyTimeSpent" value="129242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960254" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -276,22 +327,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3077">
-          <caret line="181" column="24" lean-forward="false" selection-start-line="181" selection-start-column="24" selection-end-line="181" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -652,24 +687,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        <state relative-caret-position="1768">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2057">
-          <caret line="121" column="14" lean-forward="false" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="23" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="1019" column="5" lean-forward="false" selection-start-line="1019" selection-start-column="5" selection-end-line="1019" selection-end-column="5" />
+        <state relative-caret-position="17527">
+          <caret line="1031" column="1" lean-forward="false" selection-start-line="995" selection-start-column="0" selection-end-line="1031" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="1137" column="26" lean-forward="false" selection-start-line="1137" selection-start-column="26" selection-end-line="1137" selection-end-column="26" />
           <folding />
         </state>
       </provider>
